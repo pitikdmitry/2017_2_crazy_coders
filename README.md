@@ -23,7 +23,7 @@
 ### Backend:
 
  * [Zubarev Anton](https://github.com/ZubAnt)
- * [Pitic Dima](https://github.com/pitikdmitry)
+ * [Pitik Dima](https://github.com/pitikdmitry)
  
 ### Mentor: 
 
